@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aplikasi Katalog Gambar</string>
+    <string name="silakan_login_terlebih_dahulu">Silakan login terlebih dahulu</string>
+    <string name="masuk">Masuk</string>
+    <string name="password_hint_masuk">Password (hint: masuk)</string>
+    <string name="username_hint_pengguna">Username (hint: pengguna)</string>
+    <string name="material_design">Material Design</string>
+    <string name="komodo_island">Komodo Island</string>
+    <string name="komodo_island_description">Ini adalah deskripsi untuk Pulau Komodo.</string>
+    <string name="borobudur_temple">Borobudur Temple</string>
+    <string name="borobudur_temple_description">Ini adalah deskripsi untuk Candi Borobudur.</string>
+    <string name="bromo_mountain">Bromo Mountain</string>
+    <string name="bromo_mountain_description">Ini adalah deskripsi untuk Gunung Bromo.</string>
+</resources>
